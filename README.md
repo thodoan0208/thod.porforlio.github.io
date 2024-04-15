@@ -1,4 +1,4 @@
-Tho Doan - Data Analyst Portfolio
+##Tho Doan - Data Analyst Portfolio
 
 About
 
@@ -11,13 +11,13 @@ Education
 University of The West of England, Master of Data Science, Bristol, United Kingdom	Sept 2021 - October 2022
 Achieved 3.3/4.0
 
-Relevant modules include Programming for Data Science: Python, Data Management fundamentals, Statistical Inference, Machine Learning and predictive Analytics, Cloud computing, Interdisciplinary group project about the financial literacy App for aims to obtain general information about users' current knowledge use the app.  
+Relevant modules include Programming for Data Science: Python, Data Management fundamentals, Statistical Inference, Machine Learning and predictive Analytics, Cloud computing, Interdisciplinary group project about the financial literacy App for aims to obtain general information about users' current knowledge use of the app.  
 - Dissertation  about chatbots using Machine Learning and Natural Language Processing in Healthcare Predictions.
   
 University of The West of England, Bachelor of Electronic Engineering, Bristol, United Kingdom 	Sept 2019 - June 2021
 Achieved 3.7/4.0
 
-Relevant modules include Mathematics for Signals and Control, Project Management, Business Environment, Control System Design, Digital Signal Processing, Signal Processing, Analogue electronic design, and Power Electronic.
+Relevant modules include Mathematics for Signals and Control, Project Management, Business Environment, Control System Design, Digital Signal Processing, Signal Processing, Analogue Electronic Design, and Power Electronic.
 -Final project about the Development and Simulation of a Solid-State Fault Current Limited for High Voltage Direct Current and Integrated Distribution Systems using PSCAD (Power System Computer Design).
 
 International University, Bachelor of Electrical Engineering, Ho Chi Minh City, Viet Nam	 Sept 2015 - June 2019
