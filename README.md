@@ -70,6 +70,7 @@ Data Analyst, Freelancers (Bristol, United Kingdom)	Jan 2023 - Jan 2024
 -Prepare data tables using SQL.
 
 Data Entry, Wrapex Limited (Bristol, United Kingdom)	Sept 2021 – Nov 2022
+
 -Insert customer and account data by inputting text-based and numerical information from source documents within time limits.
 -Compile, verify accuracy, and sort information according to priorities to prepare source data for computer entry.
 -Review data for deficiencies or errors, correct any incompatibilities if possible, and check the output.
