@@ -1,4 +1,4 @@
-##Tho Doan - Data Analyst Portfolio
+Tho Doan - Data Analyst Portfolio
 
 About
 
@@ -6,7 +6,7 @@ I am a recent graduate with a master’s degree in data science concentrate. I h
 learning, and project management. 
 Seeking an opportunity in  the Data Analyst field to leverage skills and gain more practical work experience. Strong attention to detail and the ability to collaborate in group situations. Interested in analyzing data, passionate about researching ways to come up with solutions to improve business performance. 
  
-1.Education
+1. Education
 
 University of The West of England, Master of Data Science, Bristol, United Kingdom	Sept 2021 - October 2022
 Achieved 3.3/4.0
@@ -86,7 +86,7 @@ Data Entry, Wrapex Limited (Bristol, United Kingdom)	Sept 2021 – Nov 2022
 - Managed 1-page social media projects to build a reputation and obtain new traffic.
 - Used multiple web analytics data points to benchmark, measure, and improve online campaign results.
 - 
-5. Certifications and Training:
+5. Certifications and Training
 +FPT Software Academy-Data Analytics (3/2024-5/2024): Fundamental Data-Driven Decision-Making, Excel & BI, Research Questions for Data Analysis, Organizing and Processing ELT Data & Interpretation of Outcomes, Data Presentation & Visualization, Data Analysis & Storytelling and Data Base.
 
 +Udemy Certificate - Data Science Bootcamp Issued date April 2021
